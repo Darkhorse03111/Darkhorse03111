@@ -15,7 +15,7 @@ My passion is creating things that users will love, and engaging with people to 
 </div>
 
 - JS/TS, JQuery, BootStrap, Tailwind CSS, Less/Sass.
-- React, Redux, Ract Hooks, Next
+- React, Redux, React Hooks, Next
 - Vue, Vuex, Vuetify, Angular
 - Node/Express, Laravel, CI, PHP
 - MySQL, MongoDB, PostgreSQL
