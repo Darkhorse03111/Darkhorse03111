@@ -14,10 +14,9 @@ My passion is creating things that users will love, and engaging with people to 
   <img align="right" alt="cover image" src="https://user-images.githubusercontent.com/86523551/128211619-0a813451-9ca4-4853-b628-b12ad0796b03.png" width="500" height="270" />
 </div>
 
-- JS/TS, JQuery, BootStrap, Tailwind CSS, Less/Sass.
-- React, Redux, React Hooks, Next
-- Vue, Vuex, Vuetify, Angular
-- Node/Express, Laravel, CI, PHP
+- JS/TS, HTML, Tailwind CSS, Less/Sass
+- React, Vue, Angular, Three.js
+- Node, Laravel, CI, PHP
 - MySQL, MongoDB, PostgreSQL
 - Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
