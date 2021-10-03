@@ -15,8 +15,8 @@ My passion is creating things that users will love, and engaging with people to 
 </div>
 
 - JS/TS, HTML, Tailwind CSS, Less/Sass
-- React, Vue, Angular, Three.js
-- Node, Laravel, CI, PHP
+- React, Next, Vue, Nuxt, Angular, Three.js
+- Node, Nest, Laravel, CI, PHP
 - MySQL, MongoDB, PostgreSQL
 - Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
