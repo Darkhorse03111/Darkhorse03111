@@ -1,6 +1,6 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a highly skilled front-end engineer with 7+ years of solid experience in JavaScript.
+I'm a highly skilled full-stack engineer with 7+ years of solid experience in JavaScript.
 
 Specialize in responsive web development for startups and small to enterprise-level businesses. Ideally, work with React + Node.js + MongoDB, Vue + Laravel + MySQL.<br/>
 Creating responsive and effective websites and web applications.<br/>
