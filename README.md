@@ -1,12 +1,13 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a highly skilled full-stack engineer with 7+ years of solid experience in JavaScript.
+I'm a highly skilled full-stack engineer with 6+ years of solid experience in JavaScript.
 
-Specialize in responsive web development for startups and small to enterprise-level businesses. Ideally, work with React + Node.js + MongoDB, Vue + Laravel + MySQL.<br/>
-Creating responsive and effective websites and web applications.<br/>
+Specialize in responsive web development for startups and small to enterprise-level businesses.<br/>
 Maintaining, optimizing, troubleshooting, and improving websites.
 
 My passion is creating things that users will love, and engaging with people to improve their products, and I always make sure to bring you upon successive results of highly and creatively qualified results before the project deadline.
+
+I always love to study new technology, especially is blockchain, web3
 
 **My areas of expertise include :** 
 
@@ -19,6 +20,7 @@ My passion is creating things that users will love, and engaging with people to 
 - Node, Nest, Laravel, CI, PHP
 - MySQL, MongoDB, PostgreSQL
 - Firebase, AWS, Google Cloud Platform, Microsoft Azure
+- Blockchain, Web3
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
