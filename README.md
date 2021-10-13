@@ -1,13 +1,13 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a highly skilled full-stack engineer with 6+ years of solid experience in JavaScript.
+I'm a highly skilled full-stack engineer with 6+ years of solid experience in JavaScript, 2+ years of experience in BlockChain.
 
 Specialize in responsive web development for startups and small to enterprise-level businesses.<br/>
 Maintaining, optimizing, troubleshooting, and improving websites.
 
 My passion is creating things that users will love, and engaging with people to improve their products, and I always make sure to bring you upon successive results of highly and creatively qualified results before the project deadline.
 
-I always love to study new technology, especially is blockchain, web3
+I always love to study new technology, especially is blockchain.
 
 **My areas of expertise include :** 
 
@@ -15,12 +15,12 @@ I always love to study new technology, especially is blockchain, web3
   <img align="right" alt="cover image" src="https://user-images.githubusercontent.com/86523551/128211619-0a813451-9ca4-4853-b628-b12ad0796b03.png" width="500" height="270" />
 </div>
 
+- NFT, Web3, Smart Contract
 - JS/TS, HTML, Tailwind CSS, Less/Sass
 - React, Next, Vue, Nuxt, Angular, Three.js
 - Node, Nest, Laravel, CI, PHP
 - MySQL, MongoDB, PostgreSQL
 - Firebase, AWS, Google Cloud Platform, Microsoft Azure
-- Blockchain, Web3
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
