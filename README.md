@@ -29,6 +29,8 @@ I always love to study new technology, especially is blockchain.
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
+📝 Email : darkhorse03111@gmail.com
+
 💬 skype : [@Bee](https://join.skype.com/invite/g5flNuJT9hNM) 
 
-📝 Email : darkhorse03111@gmail.com
+💬 Telegram : [@darkhorse03111](https://t.me/darkhorse03111)
