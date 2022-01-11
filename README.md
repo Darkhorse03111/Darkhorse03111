@@ -13,6 +13,7 @@ I always love to study new technology, especially is blockchain.
 
 <div align="right">
   [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical)]
+  [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaBoy8&show_icons=true&theme=radical)](https://github.com/MetaBoy8/github-readme-stats)
 </div>
 
 - NFT, Web3, Smart Contract
