@@ -6,12 +6,13 @@ A highly skilled full-stack developer with 7+ years of experience in Web develop
 > I love always to study new technology, especially is blockchain.
 
 ### My areas of expertise include : <img src="https://user-images.githubusercontent.com/86523551/148903048-c6cefbc7-05f3-42a5-b189-e9e80bb21a65.png" width="23px">
+<img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
 - Web3, Solidity, Rust
 - React, Next, Vue, Nuxt, Angular, TypeScript, Less/Sass, HTML, JavaScript, CSS
 - Node, Nest, PHP, Laravel, Python, Django, Flask
 - MySQL, MongoDB, PostgreSQL
-- Firebase, AWS, Google Cloud Platform, Microsoft Azure
+- Docker, Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) &nbsp;
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical)](https://github.com/Darkhorse03111)
