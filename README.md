@@ -11,8 +11,8 @@ I always love to study new technology, especially is blockchain.
 
 **My areas of expertise include :** 
 
-<div>
-  <img align="right" alt="cover image" src="https://user-images.githubusercontent.com/86523551/128211619-0a813451-9ca4-4853-b628-b12ad0796b03.png" width="500" height="270" />
+<div align="right">
+  (https://github-readme-stats.vercel.app/api?username=MetaBoy8&show_icons=true&theme=radical)
 </div>
 
 - NFT, Web3, Smart Contract
@@ -22,15 +22,7 @@ I always love to study new technology, especially is blockchain.
 - MySQL, MongoDB, PostgreSQL
 - Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
 📝 Email : darkhorse03111@gmail.com
-
 💬 skype : [@Bee](https://join.skype.com/invite/g5flNuJT9hNM) 
-
 💬 Telegram : [@darkhorse03111](https://t.me/darkhorse03111)
