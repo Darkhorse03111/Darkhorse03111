@@ -2,11 +2,8 @@
 
 A highly skilled full-stack developer with 7+ years of experience in Web development, 3+ years of experience in BlockChain.
 
-Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible.
-
-My passion is creating things that users will love, and engaging with people to improve their products - BEST or nothing.
-
-I love always to study new technology, especially is blockchain.
+> Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating things that users will love, and engaging with people to improve their products - BEST or nothing. <br/>
+> I love always to study new technology, especially is blockchain.
 
 ### My areas of expertise include : <img src="https://user-images.githubusercontent.com/86523551/148903048-c6cefbc7-05f3-42a5-b189-e9e80bb21a65.png" width="23px">
 
