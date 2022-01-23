@@ -18,7 +18,7 @@ A highly skilled full-stack developer with 8+ years of experience in Web develop
 - MySQL, MongoDB, PostgreSQL
 - Docker, Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/darkhorse03111">
     <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical" width="50%"/>
   </a>
