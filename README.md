@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;8%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-A highly skilled full-stack developer with 8+ years of experience in Web development, 3+ years of experience in BlockChain.
+A highly skilled developer with 8+ years of experience in Web development, 3+ years of experience in BlockChain.
 
 > Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating things that users will love, and engaging with people to improve their products - BEST or nothing. <br/>
 > I love always to study new technology, especially is blockchain.
