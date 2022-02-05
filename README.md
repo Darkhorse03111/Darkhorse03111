@@ -30,5 +30,5 @@ A highly skilled full-stack developer with 8+ years of experience in Web develop
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) -->
 
 📝 Email : darkhorse03111@gmail.com<br/>
-💬 Skype : [darkhorse03111@gmail.com](https://join.skype.com/invite/g5flNuJT9hNM)<br/>
+💬 Skype : [live:.cid.e0cb261572f5a496](https://join.skype.com/invite/g5flNuJT9hNM)<br/>
 💬 Telegram : [@darkhorse03111](https://t.me/darkhorse03111)
