@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="left">
 <p align="center">
   <a href="https://github.com/darkhorse03111">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20%26%20Blockchain%20developer;8%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20%26%20Blockchain%20developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-A highly skilled developer with 8+ years of experience in Web development, 3+ years of experience in BlockChain.
+A highly skilled developer with 7+ years of experience in Web development, 3+ years of experience in BlockChain.
 
 > Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating things that users will love, and engaging with people to improve their products - BEST or nothing. <br/>
 > I love always to study new technology, especially is blockchain.
