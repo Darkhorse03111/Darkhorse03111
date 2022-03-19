@@ -18,6 +18,7 @@ A highly skilled developer with 7+ years of experience in Web development, 3+ ye
 - MySQL, MongoDB, PostgreSQL
 - Docker, Firebase, AWS, Google Cloud Platform, Microsoft Azure
 
+<!--
 <p align="left">
   <a href="https://github.com/darkhorse03111">
     <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical" width="50%"/>
@@ -25,7 +26,7 @@ A highly skilled developer with 7+ years of experience in Web development, 3+ ye
   <a href="https://github.com/darkhorse03111">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical" width="40%"/>
   </a>
-</p>
+</p> -->
 <!-- [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) &nbsp;
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) -->
 
