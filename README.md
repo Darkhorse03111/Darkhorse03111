@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="left">
 <p align="center">
   <a href="https://github.com/metapirate0311">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=P2E%20%26%20Metaverse%20expert;3%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20P2E%20%26%20Metaverse%20expert;2%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-A highly skilled developer with 3+ years of experience in Blockchain, 1+ years of experience in P2E & Metaverse.
+A highly skilled developer with 2 years of experience in Blockchain, 1+ years of experience in P2E & Metaverse.
 
 > Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating P2E & Metaverse that users love - BEST or nothing. <br/>
 > I love always to study new technologies, especially blockchain.
@@ -19,6 +19,7 @@ A highly skilled developer with 3+ years of experience in Blockchain, 1+ years o
 - AWS, Google Cloud Platform, Microsoft Azure
 
 📝 Email : metapirate0311@gmail.com<br/>
+💬 Discord: S&P#0302
 💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)
 
 <!--
