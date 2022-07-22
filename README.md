@@ -19,9 +19,9 @@ A highly skilled developer with 4 years of experience in Blockchain, 3 years of 
 - AWS, Google Cloud Platform, Microsoft Azure
 <!--
 📝 Email : metapirate0311@gmail.com<br/>
+💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)
 -->
 💬 Discord: Omnislash#0302<br/>
-💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)
 
 <!--
 <p align="left">
