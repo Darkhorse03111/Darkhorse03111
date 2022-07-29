@@ -1,27 +1,28 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" align="left">
 <p align="center">
   <a href="https://github.com/metapirate0311">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=P2E,%20Metaverse,%20Web3%20developer;3%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Blockchain%20developer;3%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-A highly skilled developer with 4 years of experience in Blockchain, 3 years of experience in P2E & Metaverse.
+A highly skilled developer with 7 years of experience in Software development, 3 years of experience in blockchain.
 
-> Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating P2E & Metaverse that users love - BEST or nothing. <br/>
-> I love always to study new technologies, especially blockchain.
+> Planning, designing, development, testing, deployment, maintenance with the highest quality and lowest cost in the shortest time possible. My passion is creating dApps all users love - BEST or nothing. <br/>
+> I love always to study new technologies, especially Metaverse.
 
 ### <img src="https://user-images.githubusercontent.com/86523551/148903048-c6cefbc7-05f3-42a5-b189-e9e80bb21a65.png" width="23px"> My areas of expertise include : 
 
-
-- Unity, Unreal Engine, Phaser, PlayCanavs, Babylon, Cocos
-- React, TypeScript, HTML, CSS.
+- React, Angular, TypeScript
+- Web3, Solidity
+- Node.js, Mongodb
+- Phaser, Three.js, Colyseus
+<!-- 
+- Unity, Unreal Engine, Phaser, PlayCanavs, Babylon, Cocos 
 - Web3, Nethereum, Solnet, ChainSafe
-- Photon, PlayFab, Colyseus, Firebase
-- AWS, Google Cloud Platform, Microsoft Azure
-<!--
-📝 Email : metapirate0311@gmail.com<br/>
-💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)
 -->
-💬 Discord: Omnislash#0302<br/>
+
+📝 Email : metapirate0311@gmail.com<br/>
+💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)<br/>
+💬 Discord: Rot#8656<br/>
 
 <!--
 <p align="left">
