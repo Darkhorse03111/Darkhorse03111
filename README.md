@@ -11,7 +11,7 @@ A highly skilled developer with 7 years of experience in Software development, 3
 
 ### <img src="https://user-images.githubusercontent.com/86523551/148903048-c6cefbc7-05f3-42a5-b189-e9e80bb21a65.png" width="23px"> My areas of expertise include : 
 
-- React, Angular, TypeScript
+- React, Angular, Vue, TypeScript
 - Web3, Solidity
 - Node.js, Mongodb
 - Phaser, Three.js, Colyseus
