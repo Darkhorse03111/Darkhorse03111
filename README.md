@@ -20,9 +20,9 @@ A highly skilled developer with 7 years of experience in Software development, 3
 - Web3, Nethereum, Solnet, ChainSafe
 -->
 
-📝 Email : metapirate0311@gmail.com<br/>
-💬 Telegram : [@metapirate0311](https://t.me/metapirate0311)<br/>
+📝 Email : jamesdev0505@gmail.com<br/>
 💬 Discord: Rot#8656<br/>
+💬 Telegram : [@Rot0505](https://t.me/Rot0505)<br/>
 
 <!--
 <p align="left">
