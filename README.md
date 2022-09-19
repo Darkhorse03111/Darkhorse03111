@@ -14,7 +14,7 @@ A highly skilled developer with 7 years of experience in Software development, 3
 - React, Angular, Vue, TypeScript
 - Web3, Solidity
 - Node.js, Mongodb
-- Phaser, Three.js, Colyseus
+- Phaser, Three.js
 <!-- 
 - Unity, Unreal Engine, Phaser, PlayCanavs, Babylon, Cocos 
 - Web3, Nethereum, Solnet, ChainSafe
