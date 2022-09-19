@@ -22,9 +22,9 @@ A highly skilled developer with 7 years of experience in Software development, 3
 
 <!--
 📝 Email : jamesdev0505@gmail.com<br/>
--->
 💬 Discord: Rot#8656<br/>
 💬 Telegram : [@Rot0505](https://t.me/Rot0505)<br/>
+-->
 
 <!--
 <p align="left">
