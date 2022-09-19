@@ -15,10 +15,6 @@ A highly skilled developer with 7 years of experience in Software development, 3
 - Web3, Solidity
 - Node.js, Mongodb
 - Phaser, Three.js
-<!-- 
-- Unity, Unreal Engine, Phaser, PlayCanavs, Babylon, Cocos 
-- Web3, Nethereum, Solnet, ChainSafe
--->
 
 <!--
 📝 Email : jamesdev0505@gmail.com<br/>
@@ -28,12 +24,12 @@ A highly skilled developer with 7 years of experience in Software development, 3
 
 <!--
 <p align="left">
-  <a href="https://github.com/darkhorse03111">
-    <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical" width="50%"/>
+  <a href="https://github.com/rot0505">
+    <img src="https://github-readme-stats.vercel.app/api?username=rot0505&show_icons=true&theme=radical" width="50%"/>
   </a>
-  <a href="https://github.com/darkhorse03111">
+  <a href="https://github.com/rot0505">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical" width="40%"/>
   </a>
 </p> -->
-<!-- [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhorse03111&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) &nbsp;
-[![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse03111&layout=compact&show_icons=true&theme=radical)](https://github.com/Darkhorse03111) -->
+<!-- [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=rot0505&show_icons=true&theme=radical)](https://github.com/rot0505) &nbsp;
+[![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rot0505&layout=compact&show_icons=true&theme=radical)](https://github.com/rot0505) -->
