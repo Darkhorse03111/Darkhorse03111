@@ -8,7 +8,7 @@
 
 A highly skilled developer with 7 years of experience in Software development, 3 years of experience in blockchain.
 
-> Planning, designing, development, testing, deployment, maintenance with the high quality. My passion is creating dApps all users love. <br/>
+> Planning, designing, development, testing, deployment, maintenance with the high quality. My passion is creating dApps all users love. 
 > I love always to study new technologies, especially Blockchain.
 
 <!-- <img src="https://user-images.githubusercontent.com/86523551/148903048-c6cefbc7-05f3-42a5-b189-e9e80bb21a65.png" width="23px"> -->
